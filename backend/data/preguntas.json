@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál es el país con más pirámides en el mundo?",
+    "opciones": ["Egipto", "México", "Sudán"],
+    "correcta": "Sudán"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuántos huesos tiene el cuerpo humano adulto?",
+    "opciones": ["206", "215", "198"],
+    "correcta": "206"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿En qué país se inventó el papel?",
+    "opciones": ["Japón", "Egipto", "China"],
+    "correcta": "China"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Cuál es el animal terrestre más rápido del mundo?",
+    "opciones": ["León", "Guepardo", "Antílope"],
+    "correcta": "Guepardo"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué planeta es conocido como el planeta rojo?",
+    "opciones": ["Júpiter", "Marte", "Saturno"],
+    "correcta": "Marte"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Cuál es la lengua más hablada del mundo?",
+    "opciones": ["Inglés", "Español", "Mandarín"],
+    "correcta": "Mandarín"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué es una API REST?",
+    "opciones": ["Un tipo de base de datos", "Una interfaz para comunicar sistemas via HTTP", "Un framework de CSS"],
+    "correcta": "Una interfaz para comunicar sistemas via HTTP"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Quién compuso la Quinta Sinfonía?",
+    "opciones": ["Mozart", "Bach", "Beethoven"],
+    "correcta": "Beethoven"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+    "opciones": ["1912", "1914", "1916"],
+    "correcta": "1914"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Cuál es el país más pequeño del mundo?",
+    "opciones": ["Mónaco", "San Marino", "Vaticano"],
+    "correcta": "Vaticano"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué órgano produce la insulina?",
+    "opciones": ["Hígado", "Páncreas", "Riñón"],
+    "correcta": "Páncreas"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Cuántos elementos tiene la tabla periódica actualmente?",
+    "opciones": ["112", "118", "124"],
+    "correcta": "118"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Cuál es la capital de Australia?",
+    "opciones": ["Sídney", "Melbourne", "Canberra"],
+    "correcta": "Canberra"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué escritor creó al personaje Sherlock Holmes?",
+    "opciones": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe"],
+    "correcta": "Arthur Conan Doyle"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+    "opciones": ["Estribo", "Martillo", "Yunque"],
+    "correcta": "Estribo"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué significa HTML?",
+    "opciones": ["HyperText Markup Language", "HighText Machine Language", "Hyperlink and Text Markup Language"],
+    "correcta": "HyperText Markup Language"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿En qué continente se encuentra Egipto?",
+    "opciones": ["Asia", "África", "Oriente Medio"],
+    "correcta": "África"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Cuántos lados tiene un octágono?",
+    "opciones": ["6", "7", "8"],
+    "correcta": "8"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Cuál es el río más largo de América?",
+    "opciones": ["Orinoco", "Amazonas", "Paraná"],
+    "correcta": "Amazonas"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué país ganó el primer Mundial de Fútbol en 1930?",
+    "opciones": ["Brasil", "Argentina", "Uruguay"],
+    "correcta": "Uruguay"
+  },
+  {
+    "id": 21,
+    "pregunta": "¿Cuál es el satélite natural de la Tierra?",
+    "opciones": ["Titán", "La Luna", "Europa"],
+    "correcta": "La Luna"
+  },
+  {
+    "id": 22,
+    "pregunta": "¿Qué lenguaje de programación es conocido por la serpiente en su logo?",
+    "opciones": ["Ruby", "Python", "Cobra"],
+    "correcta": "Python"
+  },
+  {
+    "id": 23,
+    "pregunta": "¿Cuántos anillos tiene Saturno visibles principales?",
+    "opciones": ["3", "5", "7"],
+    "correcta": "7"
+  },
+  {
+    "id": 24,
+    "pregunta": "¿En qué año cayó el Muro de Berlín?",
+    "opciones": ["1987", "1989", "1991"],
+    "correcta": "1989"
+  },
+  {
+    "id": 25,
+    "pregunta": "¿Cuál es el idioma oficial de Brasil?",
+    "opciones": ["Español", "Portugués", "Brasileño"],
+    "correcta": "Portugués"
+  }
+]

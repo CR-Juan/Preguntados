@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1772788159566,
+    "nombreJugador": "Tayler Bot",
+    "aciertos": 7,
+    "estado": "Ganó",
+    "fecha": "6/3/2026"
+  },
+  {
+    "id": 1772789168987,
+    "nombreJugador": "Juan Crack",
+    "aciertos": 7,
+    "estado": "Ganó",
+    "fecha": "6/3/2026"
+  },
+  {
+    "id": 1772823480491,
+    "nombreJugador": "Juan",
+    "aciertos": 5,
+    "estado": "Perdió",
+    "fecha": "6/3/2026"
+  },
+  {
+    "id": 1772826579793,
+    "nombreJugador": "Papaya",
+    "aciertos": 5,
+    "estado": "Perdió",
+    "fecha": "6/3/2026"
+  },
+  {
+    "id": 1772827595781,
+    "nombreJugador": "Emi ♥",
+    "aciertos": 7,
+    "estado": "Ganó",
+    "fecha": "6/3/2026"
+  },
+  {
+    "id": 1772828418879,
+    "nombreJugador": "Pedro",
+    "aciertos": 1,
+    "estado": "Perdió",
+    "fecha": "6/3/2026"
+  },
+  {
+    "id": 1772949402932,
+    "nombreJugador": "Andrik",
+    "aciertos": 2,
+    "estado": "Perdió",
+    "fecha": "7/3/2026"
+  },
+  {
+    "id": 1772949501520,
+    "nombreJugador": "Maria",
+    "aciertos": 8,
+    "estado": "Ganó",
+    "fecha": "7/3/2026"
+  }
+]
