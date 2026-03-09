@@ -8,6 +8,7 @@ function Historial({ onVolver }) {
   useEffect(() => {
     const cargarHistorial = async () => {
       const datos = await obtenerHistorial();
+      // Se convierte en un array para mostrar las partidas más recientes.
       setHistorial(datos.reverse());
       setCargando(false);
     };
