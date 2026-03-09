@@ -61,5 +61,40 @@
     "aciertos": 10,
     "estado": "Ganó",
     "fecha": "8/3/2026"
+  },
+  {
+    "id": 1773030684888,
+    "nombreJugador": "Prueba Video",
+    "aciertos": 6,
+    "estado": "Ganó",
+    "fecha": "8/3/2026"
+  },
+  {
+    "id": 1773033181571,
+    "nombreJugador": "Prueba video 2.0",
+    "aciertos": 6,
+    "estado": "Ganó",
+    "fecha": "8/3/2026"
+  },
+  {
+    "id": 1773033236181,
+    "nombreJugador": "Prueba video 3.0",
+    "aciertos": 3,
+    "estado": "Perdió",
+    "fecha": "8/3/2026"
+  },
+  {
+    "id": 1773034386349,
+    "nombreJugador": "Prueba Video 4.0",
+    "aciertos": 6,
+    "estado": "Ganó",
+    "fecha": "8/3/2026"
+  },
+  {
+    "id": 1773034468903,
+    "nombreJugador": "Prueba Video 5.0",
+    "aciertos": 5,
+    "estado": "Perdió",
+    "fecha": "8/3/2026"
   }
 ]
